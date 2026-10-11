@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  HAPA NDIPO UNAONGEZA TUTORIALS ZAKO. Hakuna haja ya kubadili code.
+  Kila mstari ni button moja:   <item>Jina la button|https://link-yako</item>
+  Kanuni:
+   - Tenganisha jina na link kwa alama ya  |
+   - Tumia link za https:// tu
+   - Kama link ina alama &  iandike kama  &amp;
+   - Kama jina lina apostrophe ' iandike kama  \'
+-->
+<resources>
+    <string-array name="tutorials">
+        <item>Tutorial 1: Intro|https://example.com</item>
+        <item>Tutorial 2: Basics|https://example.com</item>
+        <item>Tutorial 3: Advanced|https://example.com</item>
+        <item>Tutorial 4: Projects|https://example.com</item>
+    </string-array>
+</resources>
