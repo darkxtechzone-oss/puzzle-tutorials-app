@@ -10,9 +10,9 @@
 -->
 <resources>
     <string-array name="tutorials">
-        <item>Tutorial 1: Intro|https://example.com</item>
-        <item>Tutorial 2: Basics|https://example.com</item>
-        <item>Tutorial 3: Advanced|https://example.com</item>
-        <item>Tutorial 4: Projects|https://example.com</item>
+        <item>How to host static site|https://youtu.be/CQ8w6BeMA18?si=pHOm5uYhgr4WHe03</item>
+        <item>Create Heroku account|https://youtu.be/bXxc2LC3O7k?si=D1oq-jCNplh16AP9</item>
+        <item>Message monitoring|https://youtu.be/uHlQclu1yzA?si=CLYLGx99FjazrHwA</item>
+        <item>Create your own WhatsApp bot|https://youtu.be/Xq-pjdmdKH4?si=GLOkE_UWCBPbRlWY</item>
     </string-array>
 </resources>
